@@ -2,5 +2,6 @@
 include:
   - board: rp2040_zero
     shield: apiaster_wired
+    artifact-name: apiaster-rp2040-zero
 #    snippet: studio-rpc-usb-uart
 #    cmake-args: -DCONFIG_ZMK_STUDIO=y
