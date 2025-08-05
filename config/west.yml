@@ -12,6 +12,6 @@ manifest:
     - name: zmk-apiaster-module
       remote: munnich
       revision: main
-      import: app/west.yml
+      import: config/west.yml
   self:
     path: config
